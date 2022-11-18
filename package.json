@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "./node_modules/.bin/eslint"
+    "lint": "next lint"
   },
   "dependencies": {
     "bootstrap": "^5.2.2",
