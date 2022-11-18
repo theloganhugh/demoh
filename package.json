@@ -9,7 +9,6 @@
     "lint": "./node_modules/.bin/eslint"
   },
   "dependencies": {
-    "auth-context": "^1.0.6",
     "bootstrap": "^5.2.2",
     "firebase": "^9.14.0",
     "formik": "^2.2.9",
